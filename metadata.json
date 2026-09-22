@@ -1,0 +1,7 @@
+{
+  "name": "Roblox Creator Docs Guide",
+  "description": "ศูนย์การเรียนรู้และบุ๊กมาร์กเอกสาร Roblox Creator Documentation (create.roblox.com/docs) อธิบายง่าย เข้าใจลึก พร้อมตัวอย่างโค้ดและขยายความรู้",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
